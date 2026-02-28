@@ -34,22 +34,18 @@
 ---
 
 ## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,firebase,supabase,git,github,postman" alt="Tech stack icons" />
+<p align="left">
+  <img title="React"      alt="React"      src="https://skillicons.dev/icons?i=react"    width="46" height="46" />&nbsp;&nbsp;
+  <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"       width="46" height="46" />&nbsp;&nbsp;
+  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js"       width="46" height="46" />&nbsp;&nbsp;
+  <img title="Node.js"    alt="Node.js"    src="https://skillicons.dev/icons?i=nodejs"   width="46" height="46" />&nbsp;&nbsp;
+  <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express"  width="46" height="46" />&nbsp;&nbsp;
+  <img title="Firebase"   alt="Firebase"   src="https://skillicons.dev/icons?i=firebase" width="46" height="46" />&nbsp;&nbsp;
+  <img title="Supabase"   alt="Supabase"   src="https://skillicons.dev/icons?i=supabase" width="46" height="46" />&nbsp;&nbsp;
+  <img title="Git"        alt="Git"        src="https://skillicons.dev/icons?i=git"      width="46" height="46" />&nbsp;&nbsp;
+  <img title="GitHub"     alt="GitHub"     src="https://skillicons.dev/icons?i=github"   width="46" height="46" />&nbsp;&nbsp;
+  <img title="Postman"    alt="Postman"    src="https://skillicons.dev/icons?i=postman"  width="46" height="46" />
 </p>
-
-<div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
-  <img title="React"      alt="React"      src="https://skillicons.dev/icons?i=react"   width="44" height="44" />
-  <img title="TypeScript" alt="TypeScript" src="https://skillicons.dev/icons?i=ts"      width="44" height="44" />
-  <img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js"      width="44" height="44" />
-  <img title="Node.js"    alt="Node.js"    src="https://skillicons.dev/icons?i=nodejs"  width="44" height="44" />
-  <img title="Express.js" alt="Express.js" src="https://skillicons.dev/icons?i=express" width="44" height="44" />
-  <img title="Firebase"   alt="Firebase"   src="https://skillicons.dev/icons?i=firebase" width="44" height="44" />
-  <img title="Supabase"   alt="Supabase"   src="https://skillicons.dev/icons?i=supabase" width="44" height="44" />
-  <img title="Git"        alt="Git"        src="https://skillicons.dev/icons?i=git"     width="44" height="44" />
-  <img title="GitHub"     alt="GitHub"     src="https://skillicons.dev/icons?i=github"  width="44" height="44" />
-  <img title="Postman"    alt="Postman"    src="https://skillicons.dev/icons?i=postman" width="44" height="44" />
-</div>
 
 **Mobile:** React Native, Expo, Android, iOS  
 **Languages:** JavaScript, TypeScript  
