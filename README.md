@@ -37,6 +37,51 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,firebase,supabase,git,github,postman" alt="Tech stack icons" />
 </p>
+<p>
+  <a href="https://react.dev/" title="React" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  </a>
+  <a href="https://nodejs.org/" title="Node.js" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/" title="Express.js" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  </a>
+  <a href="https://firebase.google.com/" title="Firebase" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" />
+  </a>
+  <a href="https://supabase.com/" title="Supabase" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />
+  </a>
+  <a href="https://git-scm.com/" title="Git" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://github.com/" title="GitHub" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://www.postman.com/" title="Postman" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  </a>
+</p>
+
+<p align="left">
+  <img title="React"        alt="React"        src="https://skillicons.dev/icons?i=react"    width="44" height="44" style="margin-right:10px;" />
+  <img title="TypeScript"   alt="TypeScript"   src="https://skillicons.dev/icons?i=ts"       width="44" height="44" style="margin-right:10px;" />
+  <img title="JavaScript"   alt="JavaScript"   src="https://skillicons.dev/icons?i=js"       width="44" height="44" style="margin-right:10px;" />
+  <img title="Node.js"      alt="Node.js"      src="https://skillicons.dev/icons?i=nodejs"   width="44" height="44" style="margin-right:10px;" />
+  <img title="Express.js"   alt="Express.js"   src="https://skillicons.dev/icons?i=express"  width="44" height="44" style="margin-right:10px;" />
+  <img title="Firebase"     alt="Firebase"     src="https://skillicons.dev/icons?i=firebase" width="44" height="44" style="margin-right:10px;" />
+  <img title="Supabase"     alt="Supabase"     src="https://skillicons.dev/icons?i=supabase" width="44" height="44" style="margin-right:10px;" />
+  <img title="Git"          alt="Git"          src="https://skillicons.dev/icons?i=git"      width="44" height="44" style="margin-right:10px;" />
+  <img title="GitHub"       alt="GitHub"       src="https://skillicons.dev/icons?i=github"   width="44" height="44" style="margin-right:10px;" />
+  <img title="Postman"      alt="Postman"      src="https://skillicons.dev/icons?i=postman"  width="44" height="44" />
+</p>
 
 **Mobile:** React Native, Expo, Android, iOS  
 **Languages:** JavaScript, TypeScript  
