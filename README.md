@@ -71,7 +71,7 @@
 
 ---
 
-## 🐍 Contribution Snake (recommended)
+## 🐍 Contribution Snake
 > Add this workflow once, and this snake will always work.
 
 <p align="center">
